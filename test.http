@@ -1,0 +1,8 @@
+### Регистрация
+POST http://localhost:8080/create
+Content-Type: application/json
+
+{
+  "name": "MrGaga",
+  "password": "22112211"
+}
