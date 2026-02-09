@@ -3,6 +3,9 @@
 *.dll
 *.so
 *.dylib
+*.db
+*.env
+.env
 
 tmp/
 vendor/
